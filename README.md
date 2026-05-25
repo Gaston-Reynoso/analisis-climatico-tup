@@ -3,9 +3,9 @@
 ## Integrantes
 | Rol | Nombre |
 |-----|--------|
-| P1 – Líder (Hugo) | [Tu nombre] |
-| P2 – Desarrollador (Paco) | [Tu nombre] |
-| P3 – QA (Luis) | [Tu nombre] |
+| P1 – Líder (Hugo) | [Gaston Reynoso] |
+| P2 – Desarrollador (Paco) | [Gaston Reynoso] |
+| P3 – QA (Luis) | [Gaston Reynoso] |
 
 ## Escenario
 Escenario A – Análisis de Datos Climáticos (UTN TUP 2026)
